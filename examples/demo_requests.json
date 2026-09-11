@@ -1,0 +1,23 @@
+[
+  {
+    "id": "M-01",
+    "material": "ERW pipe, DN 50, 60.3 x 5.5 mm, IS 1239",
+    "quantity": 1000,
+    "quantity_unit": null,
+    "location": {"city": "Ahmedabad", "state": "Gujarat", "country": "India"}
+  },
+  {
+    "id": "M-02",
+    "material": "50 mm MS ERW, Class B pipe",
+    "quantity": 500,
+    "quantity_unit": null,
+    "location": {"city": "Ahmedabad", "state": "Gujarat", "country": "India"}
+  },
+  {
+    "id": "M-03",
+    "material": "ERW pipe, DN 80, 88.9 x 5.5 mm, IS 1239",
+    "quantity": 1000,
+    "quantity_unit": null,
+    "location": {"city": "Ahmedabad", "state": "Gujarat", "country": "India"}
+  }
+]
