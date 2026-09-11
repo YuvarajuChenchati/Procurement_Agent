@@ -67,5 +67,3 @@ Source reliability is high for official vendor sites and manufacturer documentat
 - Vendor names are deduplicated conservatively by normalised legal name; future work could add domain/address matching and human review.
 - Long analyses are synchronous. A production deployment should use background jobs, persisted evidence, retry policies, and progress streaming.
 - Public contact details are shown only when present in sourced data.
-
-Never commit `.env` or other credentials.
